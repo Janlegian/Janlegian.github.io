@@ -1,0 +1,7 @@
+body {
+    background: lightblue url("bg.png");
+    color: aquamarine;
+    font-family: serif(blue serifs);
+    text-align: center;
+    font-size:x-large
+  }
